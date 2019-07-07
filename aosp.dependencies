@@ -27,7 +27,7 @@
     "remote": "evo-devices",
     "repository": "kernel_samsung_msm8916",
     "target_path": "kernel/samsung/msm8916",
-    "branch": "pie"
+    "branch": "lineage-16.0-oc"
   },
   {
     "remote": "evo-devices",
