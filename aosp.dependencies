@@ -40,5 +40,11 @@
     "repository": "LineageOS/android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat",
     "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "zakaryan2004/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/msm8916",
+    "branch": "lineage-16.0-caf-8916"
   }
 ]
