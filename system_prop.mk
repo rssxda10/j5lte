@@ -5,3 +5,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # RAM
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.config.low_ram=false
+
+# SurfaceFlinger
+PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
+    ro.surface_flinger.protected_contents=true
